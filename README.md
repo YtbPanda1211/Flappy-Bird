@@ -2,4 +2,4 @@
 # Game Flappy Bird
 
 
-📌LINK DEMO : 👉 👈
+📌LINK DEMO : 👉https://ytbpanda1211.github.io/Flappy-Bird/ 👈
